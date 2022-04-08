@@ -1,6 +1,6 @@
 import pytest
 
-from sheet import *
+from sheet import Worksheet, Column, CalculatedColumn, LiteralCell
 
 
 def test_init():

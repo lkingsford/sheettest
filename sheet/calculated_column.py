@@ -1,4 +1,4 @@
-from sheet import Column
+from sheet.column import Column
 
 
 class CalculatedColumn(Column):
